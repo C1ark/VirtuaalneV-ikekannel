@@ -1,0 +1,16 @@
+.list-group-item {
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+ul.list-group {
+    margin: 0px;
+}
+h2 {
+    margin-top: 0px;
+}
+.well {
+    background-color: #fff2dc;
+}
+.jumbotron {
+    background-color: #fff2dc;
+}
